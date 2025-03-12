@@ -20,7 +20,7 @@ footer {
 }
 
 footer a {
-    color: #4aee88;
+    color: #0df8fc;
 }
 
 .inputGroup {
@@ -34,8 +34,7 @@ footer a {
 }
 
 .homePageLogo {
-    height: 80px;
-    margin-bottom: 30px;
+    height: 150px;
 }
 
 .inputBox {
@@ -61,14 +60,14 @@ footer a {
 
 .joinBtn,
 .leaveBtn {
-    background: #4aed88;
+    background: #0df8fc;
     width: 100px;
     margin-left: auto;
 }
 
 .joinBtn:hover,
 .leaveBtn:hover {
-    background: #2b824c;
+    background: #0dbcfc;
 }
 
 .createInfo {
@@ -77,16 +76,16 @@ footer a {
 }
 
 .createNewBtn {
-    color: #4aed88;
+    color: #0df8fc;
     text-decoration: none;
-    border-bottom: 1px solid #4aed88;
+    border-bottom: 1px solid #0df8fc;
     transition: all 0.3s ease-in-out;
 }
 
 .createNewBtn:hover,
 footer a:hover {
-    color: #368654;
-    border-color: #368654;
+    color: #0dbcfc;
+    border-color: #0dbcfc;
 }
 
 .mainWrap {
